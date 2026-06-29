@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="open-instruct" width="880"></p>
+
 # Training Open Instruction-Following Language Models
 
 This repo serves as an open effort on instruction-tuning and post-training popular pretrained language models on publicly available datasets. We release this repo and will keep updating it with:
